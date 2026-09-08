@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.dll
+
+# Vídeos
+*.mp4
+*.avi
